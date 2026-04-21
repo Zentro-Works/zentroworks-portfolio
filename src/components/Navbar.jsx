@@ -6,7 +6,7 @@ const Navbar = () => {
   return (
     <nav className="flex items-center justify-between px-6 md:px-12 py-4 bg-black text-white">
       
-      <h1 className="text-xl font-bold">ZetroWorks</h1>
+      <h1 className="text-xl font-bold">ZentroWorks</h1>
 
       {/* Desktop Menu */}
       <ul className="hidden md:flex gap-8 text-sm">
